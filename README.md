@@ -40,7 +40,7 @@ If you have any questions, suggestions, or just want to say hello, feel free to 
 
 - **Email**: sheekshajoyseeree@gmail.com
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/sheeksha/)
-- **Website**: [sheeksha.com] (https://sheeksha-joyseeree-v2.netlify.app/)
+- **Website**: [sheeksha.com](https://sheeksha-joyseeree-v2.netlify.app/)
 
 
 ### Credits
