@@ -51,6 +51,10 @@ const StyledPostContent = styled.div`
 `;
 
 const PostTemplate = ({ data, location }) => {
+  // Check if data and markdownRemark are available before destructuring
+  if (!data || !data.markdownRemark) {
+    return <div>Error: Post data not found.</div>;
+  }
   const { frontmatter, html } = data.markdownRemark;
   const { title, date, tags } = frontmatter;
 
