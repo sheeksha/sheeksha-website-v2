@@ -155,7 +155,7 @@ const About = () => {
               <a href="https://profileinc.com/">a screening and Investigation company</a>,{' '}
               <a href="https://lefintech.ltd/landing/">an E-commerce start-up</a>,{' '}
               <a href="https://www.orange-business.com/en">a global telco/IT services provider</a>.
-              Each role taught me something different—from handling sensitive data and building
+              Each role taught me something different, from handling sensitive data and building
               APIs, to making sure web apps don’t crash at 2 AM (coffee helps!).
             </p>
 
