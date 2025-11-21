@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'Tableau Dashboard on Data Science Salary Trend'
 cover: './tableau.png'
 github: 'https://github.com/sheeksha/Tableau-Dashboard'
