@@ -126,7 +126,15 @@ const About = () => {
   }, []);
 
   // const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
-  const skills = ['Python', 'Django', 'Vue.js', 'Node.js', 'CNN', 'MSSQL'];
+  const skills = [
+    'Python & Django',
+    'TensorFlow / Keras / PyTorch',
+    'SQL (MySQL, MSSQL)',
+    'Computer Vision (CNNs, YOLO)',
+    'Data Visualization (Tableau, Grafana, Power BI)',
+    'React & Vue.js',
+    'Node.js',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,22 +144,27 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Sheeksha Joyseeree,  and I'm passionate about technology and the fascinating possibilities it brings.
-              My journey into tech began with a keen interest in scientific research, especially in the space technology industry and
-              data analytics. This curiosity naturally led me to explore full-stack development, where I've enjoyed building dynamic
-              and responsive web applications.
+              Hi, I’m Sheeksha Joyseeree, a tech enthusiast with one foot in the world of research
+              and the other in building real-world solutions. My journey started in scientific
+              research (involving satellites and deep learning), and naturally expanded into
+              full-stack development and data science.
             </p>
 
             <p>
-              Over the years I’ve had the privilege of working at{' '}
+              Along the way, I’ve worked at{' '}
               <a href="https://profileinc.com/">a screening and Investigation company</a>,{' '}
               <a href="https://lefintech.ltd/landing/">an E-commerce start-up</a>,{' '}
-              <a href="https://www.orange-business.com/en">a huge telco operator and now an IT services corporation</a>.
+              <a href="https://www.orange-business.com/en">a global telco/IT services provider</a>.
+              Each role taught me something different—from handling sensitive data and building
+              APIs, to making sure web apps don’t crash at 2 AM (coffee helps!).
             </p>
 
-           
+            <p>
+              What drives me is the mix of curiosity, problem-solving, and a little humour. I love
+              taking complex ideas and turning them into solutions people can actually use.
+            </p>
 
-            <p>Here are a few technologies I’ve been working with previously:</p>
+            <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
 
           <ul className="skills-list">

@@ -7,8 +7,7 @@ range: 'July - December 2017'
 url: 'https://lefintech.ltd/landing/'
 ---
 
-- Design and implement backend codes in various Programming languages like Python and Javascript
-- Mount the middleware layer between frontend and backend components on Node-Red to handle data transformation, routing, and integrate external APIs and services
-- Assist in client meetings to thoroughly understand their needs and requirements
-- Prepare and deliver presentations at conferences to attract new users, clients and projects.
-
+- Developed and maintained backend applications using Python and JavaScript, ensuring scalable and reliable functionality.
+- Built a middleware layer in Node-Red to streamline communication between frontend and backend systems, handling data transformation, routing, and API integrations with external services.
+- Partnered with clients to gather detailed requirements, translate business needs into technical solutions, and support successful project delivery.
+- Represented the company at industry conferences through presentations and demos, helping attract new users, clients, and collaborative projects.
