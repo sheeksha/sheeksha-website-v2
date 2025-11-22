@@ -4,6 +4,7 @@ title: 'Ship Detection using AI'
 cover: './yolo-cloud-fp.png'
 github: 'https://github.com/sheeksha/MPhil-Research-Project.git'
 external: ''
+cta: 'https://github.com/sheeksha/MPhil-Research-Project.git'
 tech:
   - Python
   - TensorFlow

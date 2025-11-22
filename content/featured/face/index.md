@@ -4,6 +4,7 @@ title: 'Face Verification App'
 cover: './app.jpg'
 github: 'https://github.com/sheeksha/face-verification-screening.git'
 external: ''
+cta: 'https://github.com/sheeksha/face-verification-screening.git'
 tech:
   - Siamese Neural Network
   - MTCNN
