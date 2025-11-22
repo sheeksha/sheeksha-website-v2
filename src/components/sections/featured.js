@@ -126,6 +126,7 @@ const StyledProject = styled.li`
   .project-title {
     color: var(--lightest-slate);
     font-size: clamp(24px, 5vw, 28px);
+    margin-bottom: 10px;
 
     @media (min-width: 768px) {
       margin: 0 0 20px;
@@ -189,6 +190,7 @@ const StyledProject = styled.li`
     margin: 25px 0 10px;
     padding: 0;
     list-style: none;
+    margin: 15px 0 10px;
 
     li {
       margin: 0 20px 5px 0;
@@ -246,6 +248,10 @@ const StyledProject = styled.li`
     grid-row: 1 / -1;
     position: relative;
     z-index: 1;
+
+    max-width: 420px;
+    justify-self: end;
+    width: 100%;
 
     @media (max-width: 768px) {
       grid-column: 1 / -1;
