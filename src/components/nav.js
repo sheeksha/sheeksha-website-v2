@@ -211,11 +211,14 @@ const Nav = ({ isHome }) => {
   //   </a>
   // );
   const ResumeLink = (
-    <a className="resume-button" href="/resumeSJ.pdf" target="_blank" rel="noopener noreferrer">
+    <a
+      className="resume-button"
+      href="/SheekshaJoyseereeResume.pdf"
+      target="_blank"
+      rel="noopener noreferrer">
       Resume
     </a>
   );
-
 
   return (
     <StyledHeader scrollDirection={scrollDirection} scrolledToTop={scrolledToTop}>
