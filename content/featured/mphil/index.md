@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '3'
 title: 'Ship Detection using AI'
 cover: './yolo-cloud-fp.png'
 github: 'https://github.com/sheeksha/MPhil-Research-Project.git'
